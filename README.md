@@ -23,8 +23,8 @@ by formulating the following question "What is the birth place of David Cameron?
 	Input: "What is the birth place of David Cameron?"
 	Output: "London, United Kingdom"
 
-	Input: "What is the birth place of Tony Blair?"
-	Output: "Edinburgh, United Kingdom"
+	Input: Where was David Cameron born?"
+	Output: "London, United Kingdom"
 
 ---
 
